@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://touraenag.samwillis.co.uk/sitemap.xml
